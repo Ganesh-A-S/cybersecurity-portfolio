@@ -42,6 +42,6 @@ This journey continues to shape my growth, and I am committed to furthering my e
 ## Contact Information
 
 - 📧 [Email Me](mailto:ganesharappath@gmail.com)
-- 💼 [linkedin]: https://www.linkedin.com/in/ganesh-subramanian-a048772a0
+- 💼 [linkedin](https://www.linkedin.com/in/ganesh-subramanian-a048772a0)
 - 🌐 [GitHub](https://github.com/Ganesh-A-S)
 
