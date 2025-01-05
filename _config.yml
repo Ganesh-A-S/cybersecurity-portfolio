@@ -1,5 +1,5 @@
 title: GANESH ARAPPATH SUBRAMANIAN
 logo: /assets/img/portimg.jpg
 #description: text below image
-#show_downloads: true
+show_downloads: true
 theme: jekyll-theme-minimal
