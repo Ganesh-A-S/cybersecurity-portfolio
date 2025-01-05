@@ -36,7 +36,7 @@ While I have made significant progress, I still find malware analysis and advanc
 
 This journey continues to shape my growth, and I am committed to furthering my expertise in cybersecurity.
 
- ## Career Objective
+## Career Objective
  As an aspiring cybersecurity professional, my goal is to contribute to the protection of digital infrastructures by developing innovative solutions to combat emerging cyber threats. I aim to specialize in areas such as network security, ethical hacking, and cryptography, leveraging my skills in advanced encryption techniques and threat analysis to ensure the security and integrity of data. Through continuous learning and hands-on experience, I seek to work with organizations to identify vulnerabilities, implement robust security protocols, and respond to cyber incidents. Ultimately, I strive to grow into a cybersecurity expert who can drive strategic security initiatives and protect against evolving cyber risks in a dynamic technological landscape.
 
 ## Contact Information
