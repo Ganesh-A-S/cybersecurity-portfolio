@@ -1,11 +1,59 @@
 # Hi, I'm GANESH!
 
-#### Technical Skills: Eclipse,C and C++,Python,Linux Shell,VM VirtualBOX,Microsoft Office,Android Studio,Kali linux
-
 ## Education
 - Bachelor Of Technology In Computer Science and Engineering | Vidya Academy of Science and Technology (2019-2023)								       		
 - Higher Secondary Under CBSE | St Pauls Public School (2018-2019)	 			        		
 - Higher School 10th Under CBSE | St Pauls Public School (2018-2019)
+
+## Technical Skills
+
+<details>
+  <summary><strong>Programming Languages</strong></summary>
+
+- **C & C++**: Systems programming, algorithm development, and performance optimization.
+- **Python**: Scripting, automation, data analysis, machine learning, and web development.
+
+</details>
+
+<details>
+  <summary><strong>Cybersecurity & Networking</strong></summary>
+
+- **Kali Linux**: Penetration testing, vulnerability analysis, and network security tasks.
+- **Linux Shell**: Shell scripting for automation, system administration, and troubleshooting.
+- **Network Security Tools**: Proficient in **Nmap** for network scanning and **Shodan** for vulnerability analysis.
+
+</details>
+
+<details>
+  <summary><strong>Development Tools & Platforms</strong></summary>
+
+- **Eclipse**: IDE for C, C++, and Java development.
+- **Android Studio**: Android app development for mobile platforms.
+- **VM VirtualBox**: Virtualization and management of virtual machines for testing and development.
+
+</details>
+
+<details>
+  <summary><strong>Version Control & Collaboration</strong></summary>
+
+- **Git & GitHub**: Proficient in using Git for version control and GitHub for project collaboration.
+
+</details>
+
+<details>
+  <summary><strong>Other Tools</strong></summary>
+
+- **Microsoft Office**: Proficient with Word, Excel, and PowerPoint for documentation, presentations, and data analysis.
+
+</details>
+
+<details>
+  <summary><strong>Cloud & APIs</strong></summary>
+
+- **Groq API**: Integrating Groq’s AI-powered chatbot API for conversational interfaces and vulnerability analysis.
+
+</details>
+
 
 ## Projects
 ### Secure File Storage Using Hybrid Cryptography 
