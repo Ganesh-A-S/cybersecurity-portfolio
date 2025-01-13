@@ -16,11 +16,11 @@ This project is a secure encryption system that triple-encrypts files using AES,
 
 This project entails the development of a home automation system enabling Wi-Fi-based control of home appliances through the Blynk IoT App. It incorporates a NodeMCU (ESP8266 Wi-Fi module) programmed using the Arduino IDE and integrates a 2-channel relay module to ensure safe isolation between the low-voltage control circuit and high-voltage appliances. Additionally, a motor driver module is utilized to convert low-current control signals into high-current outputs for motor operation. This system provides a reliable and scalable solution for modern smart home automation.
 
-# Network Vulnerability Monitoring Dashboard
+### Network Vulnerability Monitoring Dashboard
 
-This repository contains the code for a comprehensive **Network Vulnerability Monitoring Dashboard** built with **Streamlit**. It allows users to scan networks for vulnerabilities, fetch details from Shodan.io, visualize vulnerability data, and send automated email reports. The dashboard also features an AI-powered chatbot for querying vulnerabilities and CVE details.
+This repository contains the code for a comprehensive Network Vulnerability Monitoring Dashboard built with Streamlit. It allows users to scan networks for vulnerabilities, fetch details from Shodan.io, visualize vulnerability data, and send automated email reports. The dashboard also features an AI-powered chatbot for querying vulnerabilities and CVE details.
 
-## Features
+### Features
 
 - **Network Scanning**: 
   - Supports multiple scan modes (Intense Scan, Ping Scan, Comprehensive Scan) using Nmap.
@@ -39,7 +39,7 @@ This repository contains the code for a comprehensive **Network Vulnerability Mo
 
 - **Chatbot Interface**:
   - Users can interact with a chatbot to ask queries about detected vulnerabilities, CVE details, and network scan results.
-  - Uses **Groq AI** to generate real-time responses.
+  - Uses Groq AI to generate real-time responses.
 
 ## Technologies Used
 
