@@ -16,6 +16,40 @@ This project is a secure encryption system that triple-encrypts files using AES,
 
 This project entails the development of a home automation system enabling Wi-Fi-based control of home appliances through the Blynk IoT App. It incorporates a NodeMCU (ESP8266 Wi-Fi module) programmed using the Arduino IDE and integrates a 2-channel relay module to ensure safe isolation between the low-voltage control circuit and high-voltage appliances. Additionally, a motor driver module is utilized to convert low-current control signals into high-current outputs for motor operation. This system provides a reliable and scalable solution for modern smart home automation.
 
+# Network Vulnerability Monitoring Dashboard
+
+This repository contains the code for a comprehensive **Network Vulnerability Monitoring Dashboard** built with **Streamlit**. It allows users to scan networks for vulnerabilities, fetch details from Shodan.io, visualize vulnerability data, and send automated email reports. The dashboard also features an AI-powered chatbot for querying vulnerabilities and CVE details.
+
+## Features
+
+- **Network Scanning**: 
+  - Supports multiple scan modes (Intense Scan, Ping Scan, Comprehensive Scan) using Nmap.
+  - Allows users to scan specific IP ranges to identify open ports and services.
+
+- **Vulnerability Detection & Exploit Linking**: 
+  - Integrates with Shodan.io to fetch vulnerabilities associated with the detected services.
+  - Provides detailed CVE information, including severity scores and exploit links.
+
+- **Data Visualization**: 
+  - Visualizes vulnerability severity distributions using interactive charts powered by Plotly.
+
+- **Email Reporting**: 
+  - Sends automated email reports containing scan results and vulnerability details.
+  - Supports attachments such as vulnerability reports in CSV format.
+
+- **Chatbot Interface**:
+  - Users can interact with a chatbot to ask queries about detected vulnerabilities, CVE details, and network scan results.
+  - Uses **Groq AI** to generate real-time responses.
+
+## Technologies Used
+
+- **Streamlit**: Interactive dashboard for real-time visualization.
+- **Nmap**: Tool for network scanning and service identification.
+- **Shodan.io API**: Fetches vulnerabilities and exploit details for detected services.
+- **Plotly**: Visualizes vulnerability data through interactive charts.
+- **Groq AI**: NLP-powered chatbot for querying vulnerabilities.
+- **SMTP (Gmail)**: For email report generation and distribution.
+
 ## Certifications and Training
 1. Cybersecurity And Ethical Hacking Certification
 2. Google Digital Garage: Fundamentals Of Digital Marketing
