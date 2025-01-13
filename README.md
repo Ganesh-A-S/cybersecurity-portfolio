@@ -1,7 +1,7 @@
 # Hi, I'm GANESH!
 
 ## About Me
-Hi, I'm Ganesh Arappath Subramanian, a passionate Cybersecurity Enthusiast and Master's student at Universiti Malaya. Currently, I am pursuing a Master of Cybersecurity where I am exploring various areas within the field, from network security to machine learning-based security solutions. With a strong foundation in programming languages such as Python, C, and C++, and hands-on experience in tools like Kali Linux, Nmap, and Shodan, I aim to contribute to creating safer digital environments.
+A passionate Cybersecurity Enthusiast and Master's student at Universiti Malaya. Currently, I am pursuing a Master of Cybersecurity where I am exploring various areas within the field, from network security to machine learning-based security solutions. With a strong foundation in programming languages such as Python, C, and C++, and hands-on experience in tools like Kali Linux, Nmap, and Shodan, I aim to contribute to creating safer digital environments.
 
 I am also intrigued by the application of AI and automation in enhancing security systems and regularly work on projects related to vulnerability analysis, network monitoring, and creating intelligent automation bots. My journey into cybersecurity began with an interest in understanding how systems can be exploited, which has evolved into a desire to build solutions that safeguard these systems from vulnerabilities.
 
@@ -17,24 +17,31 @@ Feel free to explore my projects and reach out if you're interested in collabora
 
 <details>
   <summary><strong>Programming Languages</strong></summary>
-  - C  
-  - C++  
-  - Python  
+  <ul>
+    <li>C</li>
+    <li>C++</li>
+    <li>Python</li>
+  </ul>
 </details>
 
 <details>
   <summary><strong>Tools & Technologies</strong></summary>
-  - Eclipse  
-  - Android Studio  
-  - Kali Linux  
-  - VM VirtualBox  
-  - Microsoft Office  
+  <ul>
+    <li>Eclipse</li>
+    <li>Android Studio</li>
+    <li>Kali Linux</li>
+    <li>VM VirtualBox</li>
+    <li>Microsoft Office</li>
+  </ul>
 </details>
 
 <details>
   <summary><strong>Operating Systems</strong></summary>
-  - Linux Shell  
+  <ul>
+    <li>Linux Shell</li>
+  </ul>
 </details>
+
 
 ## Projects
 ### Secure File Storage Using Hybrid Cryptography 
