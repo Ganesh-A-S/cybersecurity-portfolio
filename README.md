@@ -1,64 +1,40 @@
 # Hi, I'm GANESH!
 
+## About Me
+Hi, I'm Ganesh Arappath Subramanian, a passionate Cybersecurity Enthusiast and Master's student at Universiti Malaya. Currently, I am pursuing a Master of Cybersecurity where I am exploring various areas within the field, from network security to machine learning-based security solutions. With a strong foundation in programming languages such as Python, C, and C++, and hands-on experience in tools like Kali Linux, Nmap, and Shodan, I aim to contribute to creating safer digital environments.
+
+I am also intrigued by the application of AI and automation in enhancing security systems and regularly work on projects related to vulnerability analysis, network monitoring, and creating intelligent automation bots. My journey into cybersecurity began with an interest in understanding how systems can be exploited, which has evolved into a desire to build solutions that safeguard these systems from vulnerabilities.
+
+I am excited about the intersection of technology and security and am constantly looking for opportunities to deepen my knowledge and contribute to the cybersecurity community.
+
+Feel free to explore my projects and reach out if you're interested in collaborating!
 ## Education
 - Bachelor Of Technology In Computer Science and Engineering | Vidya Academy of Science and Technology (2019-2023)								       		
 - Higher Secondary Under CBSE | St Pauls Public School (2018-2019)	 			        		
 - Higher School 10th Under CBSE | St Pauls Public School (2018-2019)
 
-## Technical Skills
+### Technical Skills
 
 <details>
   <summary><strong>Programming Languages</strong></summary>
-
-- **C & C++**: Systems programming, algorithm development, and performance optimization.
-
--**Python**: Scripting, automation, data analysis, machine learning, and web development.
-
+  - C  
+  - C++  
+  - Python  
 </details>
 
 <details>
-  <summary><strong>Cybersecurity & Networking</strong></summary>
-
-- **Kali Linux**: Penetration testing, vulnerability analysis, and network security tasks.
-
-- **Linux Shell**: Shell scripting for automation, system administration, and troubleshooting.
-
-- **Network Security Tools**: Proficient in **Nmap** for network scanning and **Shodan** for vulnerability analysis.
-
+  <summary><strong>Tools & Technologies</strong></summary>
+  - Eclipse  
+  - Android Studio  
+  - Kali Linux  
+  - VM VirtualBox  
+  - Microsoft Office  
 </details>
 
 <details>
-  <summary><strong>Development Tools & Platforms</strong></summary>
-
-- **Eclipse**: IDE for C, C++, and Java development.
-
-- **Android Studio**: Android app development for mobile platforms.
-
-- **VM VirtualBox**: Virtualization and management of virtual machines for testing and development.
-
+  <summary><strong>Operating Systems</strong></summary>
+  - Linux Shell  
 </details>
-
-<details>
-  <summary><strong>Version Control & Collaboration</strong></summary>
-
-- **Git & GitHub**: Proficient in using Git for version control and GitHub for project collaboration.
-
-</details>
-
-<details>
-  <summary><strong>Other Tools</strong></summary>
-
-- **Microsoft Office**: Proficient with Word, Excel, and PowerPoint for documentation, presentations, and data analysis.
-
-</details>
-
-<details>
-  <summary><strong>Cloud & APIs</strong></summary>
-
-- **Groq API**: Integrating Groq’s AI-powered chatbot API for conversational interfaces and vulnerability analysis.
-
-</details>
-
 
 ## Projects
 ### Secure File Storage Using Hybrid Cryptography 
