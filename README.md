@@ -18,7 +18,7 @@ Feel free to explore my projects and reach out if you're interested in collabora
 <details>
   <summary><strong>Programming Languages</strong></summary>
   <ul>
-    <li>**C & C++**:Systems programming, algorithm development, and performance optimization.</li>
+    <li>C & C++:Systems programming, algorithm development, and performance optimization.</li>
     <li>Python:Scripting, automation, data analysis, machine learning, and web development.
 </li>
   </ul>
@@ -53,8 +53,6 @@ Feel free to explore my projects and reach out if you're interested in collabora
     <li>Groq API:Integrating Groq’s AI-powered chatbot API for conversational interfaces and vulnerability analysis..</li>
   </ul>
 </details>
-
-
 
 ## Projects
 ### Secure File Storage Using Hybrid Cryptography 
