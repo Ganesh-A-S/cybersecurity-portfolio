@@ -11,7 +11,8 @@
   <summary><strong>Programming Languages</strong></summary>
 
 - **C & C++**: Systems programming, algorithm development, and performance optimization.
-- **Python**: Scripting, automation, data analysis, machine learning, and web development.
+
+-**Python**: Scripting, automation, data analysis, machine learning, and web development.
 
 </details>
 
@@ -19,7 +20,9 @@
   <summary><strong>Cybersecurity & Networking</strong></summary>
 
 - **Kali Linux**: Penetration testing, vulnerability analysis, and network security tasks.
+
 - **Linux Shell**: Shell scripting for automation, system administration, and troubleshooting.
+
 - **Network Security Tools**: Proficient in **Nmap** for network scanning and **Shodan** for vulnerability analysis.
 
 </details>
@@ -28,7 +31,9 @@
   <summary><strong>Development Tools & Platforms</strong></summary>
 
 - **Eclipse**: IDE for C, C++, and Java development.
+
 - **Android Studio**: Android app development for mobile platforms.
+
 - **VM VirtualBox**: Virtualization and management of virtual machines for testing and development.
 
 </details>
