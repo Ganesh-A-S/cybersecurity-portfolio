@@ -18,27 +18,39 @@ Feel free to explore my projects and reach out if you're interested in collabora
 <details>
   <summary><strong>Programming Languages</strong></summary>
   <ul>
-    <li>C</li>
-    <li>C++</li>
-    <li>Python</li>
+    <li>C:Systems programming, algorithm development, and performance optimization.</li>
+    <li>Python:Scripting, automation, data analysis, machine learning, and web development.
+</li>
   </ul>
 </details>
 
 <details>
-  <summary><strong>Tools & Technologies</strong></summary>
+  <summary><strong>Cybersecurity & Networking</strong></summary>
   <ul>
-    <li>Eclipse</li>
-    <li>Android Studio</li>
-    <li>Kali Linux</li>
-    <li>VM VirtualBox</li>
-    <li>Microsoft Office</li>
+    <li>Kali Linux: Penetration testing, vulnerability analysis, and network security tasks.</li>
+    <li>Linux Shell:Shell scripting for automation, system administration, and troubleshooting.</li>
+    <li>Network Security Tools:Proficient in **Nmap** for network scanning and **Shodan** for vulnerability analysis.</li>
   </ul>
 </details>
 
 <details>
-  <summary><strong>Operating Systems</strong></summary>
+  <summary><strong>Version Control & Collaboration</strong></summary>
   <ul>
-    <li>Linux Shell</li>
+    <li>Git & GitHub:Proficient in using Git for version control and GitHub for project collaboration.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>Other Tools</strong></summary>
+  <ul>
+    <li>Microsoft Office:Proficient with Word, Excel, and PowerPoint for documentation, presentations, and data analysis..</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>Cloud & APIs</strong></summary>
+  <ul>
+    <li>Groq API:Integrating Groq’s AI-powered chatbot API for conversational interfaces and vulnerability analysis..</li>
   </ul>
 </details>
 
